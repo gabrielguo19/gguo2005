@@ -10,6 +10,7 @@
 - ⚡ **Interests:** Poker analytics, NBA betting markets, and prediction market algorithmic efficiency.
 - 📫 **Contact:** [guo.ga@northeastern.edu](mailto:guo.ga@northeastern.edu)
 
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -22,14 +23,13 @@
 
 ---
 
----
-
-### 📊 Leetcode Profile
+### 📊 LeetCode Profile
 *Showcasing consistent problem-solving through LeetHub commits.*
 
 <p align="left">
-  <img align="center" src="https://leetcode-stats-card.vercel.app/api?username=gguo2005&theme=dark" alt="LeetCode Stats" />
-  <img align="center" src="https://leetcode-status.vercel.app/api/graph/gguo2005?theme=neon" alt="LeetCode Graph" />
+  <img src="https://leetcode-stats-card.vercel.app/api?username=gguo2005&theme=dark" alt="LeetCode Stats" />
+  <br/>
+  <img src="https://leetcode-status.vercel.app/api/graph/gguo2005?theme=neon" alt="LeetCode Graph" />
 </p>
 
 ---
